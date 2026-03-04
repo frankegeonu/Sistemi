@@ -1,2 +1,2 @@
 # Sistemi
-Lavori riguardanti alle topologie di rete
+Lavori riguardanti le topologie di rete
